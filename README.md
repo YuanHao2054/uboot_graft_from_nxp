@@ -1,0 +1,2 @@
+# uboot_graft_from_nxp
+跟着正点原子的教程学着移植nxp的uboot到imx6ull mini开发板
